@@ -21,10 +21,10 @@ final class hai extends A implements i1, i2 {
 
 	}
 
-	hai(int b) {
-		this.b = b;
-
-	}
+//	hai(int b) {
+//		this.b = b;
+//
+//	}
 
 	void show() {
 		System.out.println(a);
