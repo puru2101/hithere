@@ -20,7 +20,6 @@ class jtc1 extends hai1 {
 
 	public jtc1() {
 System.out.println("constrcter jtc1()");
-System.out.println("hello12");
 	}
 
 	public void show() {
