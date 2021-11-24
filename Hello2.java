@@ -24,6 +24,7 @@ System.out.println("constrcter jtc1()");
 
 	public void show() {
 		System.out.println("show");
+		System.out.println("hi");
 		System.out.println(a);
 		System.out.println(b);
 
